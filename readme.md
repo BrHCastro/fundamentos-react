@@ -4,3 +4,5 @@
 
 - babel: [https://babeljs.io/](https://babeljs.io/)
   - Responsável por converter o código javascript para o javascript que o browser entende.
+- webpack: [https://webpack.js.org/](https://webpack.js.org/)
+  - Responsável por fazer o processo de compilação do código javascript.
