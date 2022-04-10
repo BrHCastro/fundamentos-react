@@ -16,7 +16,7 @@
 
 > _Neste modulo é mostrado alguns conceitos importantes do reactjs como componentes, propriedades e estado._
 
-- [ ] **TypeScript no ReactJS.**
+- [x] **TypeScript no ReactJS.**
 
 > _Neste modulo é mostrado como configurar e utilizar o typescript no reactjs._
 
