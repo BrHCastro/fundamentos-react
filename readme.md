@@ -12,6 +12,13 @@
 
   - Responsável por fazer o processo de compilação do código javascript.
 
-- [ ] **Conceitos importantes.**
+- [x] **Conceitos importantes.**
 
 > _Neste modulo é mostrado alguns conceitos importantes do reactjs como componentes, propriedades e estado._
+
+- [ ] **TypeScript no ReactJS.**
+
+> _Neste modulo é mostrado como configurar e utilizar o typescript no reactjs._
+
+- TypeScript: [https://www.typescriptlang.org/](https://www.typescriptlang.org/)
+  - Superset do javascript que permite a criação de tipos para os dados.
